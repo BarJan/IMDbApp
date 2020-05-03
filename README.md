@@ -1,5 +1,5 @@
 # IMDbApp
-An Android Studio project done for MSApps
+An Android Studio project done for MSApps.
 App uses few fregmants, and only two activities - splash and main.
 
 This app loads a json movies list from the api: https://api.androidhive.info/json/movies.json
